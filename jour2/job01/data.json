@@ -1,0 +1,23 @@
+{
+    "tasks": [
+      {
+        "id": "1",
+        "title": "Faire les courses",
+        "description": "Acheter du pain, du lait et des œufs",
+        "status": "en cours"
+      },
+      {
+        "id": "2",
+        "title": "Répondre aux e-mails",
+        "description": "Répondre aux e-mails des clients",
+        "status": "en attente"
+      },
+      {
+        "id": "3",
+        "title": "Préparer le rapport",
+        "description": "Préparer le rapport mensuel pour la réunion",
+        "status": "terminé"
+      }
+    ]
+  }
+  
