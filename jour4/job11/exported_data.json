@@ -1,0 +1,276 @@
+{
+  "students": [
+    {
+      "_id": "6646371597d3e8c001cb850f",
+      "firstname": "Marine",
+      "lastname": "Dupont",
+      "__v": 0
+    },
+    {
+      "_id": "6646371597d3e8c001cb850d",
+      "firstname": "Bob",
+      "lastname": "LeBricoleur",
+      "__v": 0
+    },
+    {
+      "_id": "6646371597d3e8c001cb850e",
+      "firstname": "John",
+      "lastname": "Doe",
+      "__v": 0
+    },
+    {
+      "_id": "664637cbc6ff024dc6bf13da",
+      "firstname": "Marine",
+      "lastname": "Dupont",
+      "year": "664637cbc6ff024dc6bf13d4",
+      "__v": 0
+    },
+    {
+      "_id": "664637cbc6ff024dc6bf13d8",
+      "firstname": "Bob",
+      "lastname": "LeBricoleur",
+      "year": "664637cbc6ff024dc6bf13d2",
+      "__v": 0
+    },
+    {
+      "_id": "664637cbc6ff024dc6bf13d9",
+      "firstname": "John",
+      "lastname": "Doe",
+      "year": "664637cbc6ff024dc6bf13d3",
+      "__v": 0
+    },
+    {
+      "_id": "6648900ee4e316cec4212c90",
+      "id": 1,
+      "lastname": "LeBricoleur",
+      "firstname": "Bob",
+      "students_number": 12345,
+      "year_id": {
+        "_id": "6648900de4e316cec4212c88",
+        "year": "Bachelor 1",
+        "__v": 0
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6648900ee4e316cec4212c91",
+      "id": 2,
+      "lastname": "Doe",
+      "firstname": "John",
+      "students_number": 12346,
+      "year_id": {
+        "_id": "6648900de4e316cec4212c89",
+        "year": "Bachelor 2",
+        "__v": 0
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6648900ee4e316cec4212c92",
+      "id": 3,
+      "lastname": "Dupont",
+      "firstname": "Marine",
+      "students_number": 12347,
+      "year_id": {
+        "_id": "6648900de4e316cec4212c8a",
+        "year": "Bachelor 3",
+        "__v": 0
+      },
+      "__v": 0
+    },
+    {
+      "_id": "664890353af30549fff2db8e",
+      "id": 2,
+      "lastname": "Doe",
+      "firstname": "John",
+      "students_number": 12346,
+      "year_id": {
+        "_id": "664890343af30549fff2db86",
+        "year": "Bachelor 2",
+        "__v": 0
+      },
+      "__v": 0
+    },
+    {
+      "_id": "664890353af30549fff2db8f",
+      "id": 3,
+      "lastname": "Dupont",
+      "firstname": "Marine",
+      "students_number": 12347,
+      "year_id": {
+        "_id": "664890343af30549fff2db87",
+        "year": "Bachelor 3",
+        "__v": 0
+      },
+      "__v": 0
+    },
+    {
+      "_id": "664890353af30549fff2db8d",
+      "id": 1,
+      "lastname": "LeBricoleur",
+      "firstname": "Bob",
+      "students_number": 12345,
+      "year_id": {
+        "_id": "664890343af30549fff2db85",
+        "year": "Bachelor 1",
+        "__v": 0
+      },
+      "__v": 0
+    },
+    {
+      "_id": "664890dbd8af6e31873d1cf0",
+      "id": 1,
+      "lastname": "LeBricoleur",
+      "firstname": "Bob",
+      "students_number": 12345,
+      "year_id": {
+        "_id": "664890dbd8af6e31873d1ce8",
+        "year": "Bachelor 1",
+        "__v": 0
+      },
+      "__v": 0
+    },
+    {
+      "_id": "664890dbd8af6e31873d1cf1",
+      "id": 2,
+      "lastname": "Doe",
+      "firstname": "John",
+      "students_number": 12346,
+      "year_id": {
+        "_id": "664890dbd8af6e31873d1ce9",
+        "year": "Bachelor 2",
+        "__v": 0
+      },
+      "__v": 0
+    },
+    {
+      "_id": "664890dbd8af6e31873d1cf2",
+      "id": 3,
+      "lastname": "Dupont",
+      "firstname": "Marine",
+      "students_number": 12347,
+      "year_id": {
+        "_id": "664890dbd8af6e31873d1cea",
+        "year": "Bachelor 3",
+        "__v": 0
+      },
+      "__v": 0
+    },
+    {
+      "_id": "66489170aaa58f75e2c35f49",
+      "id": 1,
+      "lastname": "LeBricoleur",
+      "firstname": "Bob",
+      "students_number": 12345,
+      "year_id": {
+        "_id": "66489170aaa58f75e2c35f41",
+        "year": "Bachelor 1",
+        "__v": 0
+      },
+      "__v": 0
+    },
+    {
+      "_id": "66489170aaa58f75e2c35f4a",
+      "id": 2,
+      "lastname": "Doe",
+      "firstname": "John",
+      "students_number": 12346,
+      "year_id": {
+        "_id": "66489170aaa58f75e2c35f42",
+        "year": "Bachelor 2",
+        "__v": 0
+      },
+      "__v": 0
+    },
+    {
+      "_id": "66489170aaa58f75e2c35f4b",
+      "id": 3,
+      "lastname": "Dupont",
+      "firstname": "Marine",
+      "students_number": 12347,
+      "year_id": {
+        "_id": "66489170aaa58f75e2c35f43",
+        "year": "Bachelor 3",
+        "__v": 0
+      },
+      "__v": 0
+    }
+  ],
+  "years": [
+    {
+      "_id": "664637cbc6ff024dc6bf13d4",
+      "year": "Bachelor 3",
+      "__v": 0
+    },
+    {
+      "_id": "664637cbc6ff024dc6bf13d2",
+      "year": "Bachelor 1",
+      "__v": 0
+    },
+    {
+      "_id": "664637cbc6ff024dc6bf13d3",
+      "year": "Bachelor 2",
+      "__v": 0
+    },
+    {
+      "_id": "6648900de4e316cec4212c88",
+      "year": "Bachelor 1",
+      "__v": 0
+    },
+    {
+      "_id": "6648900de4e316cec4212c89",
+      "year": "Bachelor 2",
+      "__v": 0
+    },
+    {
+      "_id": "6648900de4e316cec4212c8a",
+      "year": "Bachelor 3",
+      "__v": 0
+    },
+    {
+      "_id": "664890343af30549fff2db87",
+      "year": "Bachelor 3",
+      "__v": 0
+    },
+    {
+      "_id": "664890343af30549fff2db85",
+      "year": "Bachelor 1",
+      "__v": 0
+    },
+    {
+      "_id": "664890343af30549fff2db86",
+      "year": "Bachelor 2",
+      "__v": 0
+    },
+    {
+      "_id": "664890dbd8af6e31873d1ce9",
+      "year": "Bachelor 2",
+      "__v": 0
+    },
+    {
+      "_id": "664890dbd8af6e31873d1cea",
+      "year": "Bachelor 3",
+      "__v": 0
+    },
+    {
+      "_id": "664890dbd8af6e31873d1ce8",
+      "year": "Bachelor 1",
+      "__v": 0
+    },
+    {
+      "_id": "66489170aaa58f75e2c35f42",
+      "year": "Bachelor 2",
+      "__v": 0
+    },
+    {
+      "_id": "66489170aaa58f75e2c35f43",
+      "year": "Bachelor 3",
+      "__v": 0
+    },
+    {
+      "_id": "66489170aaa58f75e2c35f41",
+      "year": "Bachelor 1",
+      "__v": 0
+    }
+  ]
+}
